@@ -19,6 +19,7 @@ export default class Sidebar extends Component {
                   <li><a href="#about" data-nav-section="about">About</a></li>
                   <li><a href="#skills" data-nav-section="skills">Skills</a></li>
 						      <li><a href="#education" data-nav-section="education">Education</a></li>
+                  <li><a href="#certf" data-nav-section="certf">Certificates</a></li>
 						      <li><a href="#timeline" data-nav-section="timeline">Experience</a></li>
 						      <li><a href="#blog" data-nav-section="blog">You tube Channel</a></li>
                 </ul>
